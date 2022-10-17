@@ -36,6 +36,9 @@ I'm a computer Engineering student who is passionate about writing code, solving
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=plastic&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=plastic&logo=adobe-photoshop)
+  ![Microsoft Excel](https://img.shields.io/badge/-Microsoft_Excel-333333?style=plastic&logo=microsoft-excel)
+  ![Jira](https://img.shields.io/badge/-Jira-333333?style=plastic&logo=jira)
+  ![CMake](https://img.shields.io/badge/-Cmake-333333?style=plastic&logo=cmake)
 
 ### 🔎 &nbsp;Stats
 
