@@ -21,10 +21,14 @@ I'm a computer Engineering student who is passionate about writing code, solving
   ![Python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=python)
   ![C](https://img.shields.io/badge/-C-333333?style=plastic&logo=C%2B%2B&logoColor=00599C)
   ![C++](https://img.shields.io/badge/-C++-333333?style=plastic&logo=C%2B%2B&logoColor=00599C)
+  ![Shell Script](https://img.shields.io/badge/-Shells_script-333333?style=plastic&logo=gnu-bash&logoColor=white)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=plastic&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=plastic&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=plastic&logo=javascript)
+  ![Django](https://img.shields.io/badge/-Django-333333?style=plastic&logo=django)
+  ![react](https://img.shields.io/badge/-React-333333?style=plastic&logo=react)
+  ![Vercel](https://img.shields.io/badge/-vercel-333333?style=plastic&logo=vercel)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=plastic&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=plastic&logo=github)
@@ -37,20 +41,20 @@ I'm a computer Engineering student who is passionate about writing code, solving
 
 <p align="center" >
 <a href="https://github.com/Kaiseru1612">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Kaiseru1612&theme=radical&show_icons=true" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Kaiseru1612&theme=cobalt&show_icons=true" />
   &nbsp;
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiseru1612&theme=radical&layout=compact" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiseru1612&theme=cobalt&layout=compact" />
 </a>
 </p>
 
 ### 📌 &nbsp;Pin Repos
 <p align="center" >
   <a href="https://github.com/Kaiseru1612/IoT_Android_App">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaiseru1612&repo=IoT_Android_App&show_icons=true&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaiseru1612&repo=IoT_Android_App&show_icons=true&theme=cobalt" />
   </a>
   &nbsp;
   <a href="https://github.com/Kaiseru1612/dadn">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaiseru1612&repo=dadn&show_icons=true&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaiseru1612&repo=dadn&show_icons=true&theme=cobalt" />
   </a>
 </p>
 
@@ -58,7 +62,7 @@ I'm a computer Engineering student who is passionate about writing code, solving
 
 <p align="center">
 <a href="https://www.facebook.com/Otamegane.1612"><img alt="LinkedIn" src="https://img.shields.io/badge/Facebook-VinhTien-blue?style=plastic&logo=facebook"></a>
-<a href="mailto:vinhtien1612@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vinhtien1612@gmail.com-success?style=plastic&logo=gmail"></a>
+<a href="mailto:vinhtien1612@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tien.tranvinh.1612@gmail.com-success?style=plastic&logo=gmail"></a>
 </p>
 
 ⭐️ From [Kaiseru1612](https://github.com/Kaiseru1612)
