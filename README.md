@@ -22,7 +22,7 @@ I'm a computer Engineering student who is passionate about writing code, solving
   ![C](https://img.shields.io/badge/-C-333333?style=plastic&logo=C%2B%2B&logoColor=00599C)
   ![C++](https://img.shields.io/badge/-C++-333333?style=plastic&logo=C%2B%2B&logoColor=00599C)
   ![Shell Script](https://img.shields.io/badge/-Shells_script-333333?style=plastic&logo=gnu-bash&logoColor=white)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=plastic&logo=gnu-bash&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=plastic&logo=oracle&logoColor=white)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=plastic&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=plastic&logo=CSS3&logoColor=1572B6)
@@ -35,6 +35,7 @@ I'm a computer Engineering student who is passionate about writing code, solving
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=plastic&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=plastic&logo=visual-studio-code&logoColor=007ACC)
+  ![Android studio](https://img.shields.io/badge/-Android%20Studio-333333?style=plastic&logo=android-studio&logoColor=007ACC)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=plastic&logo=adobe-photoshop)
   ![Microsoft Excel](https://img.shields.io/badge/-Microsoft_Excel-333333?style=plastic&logo=microsoft-excel)
