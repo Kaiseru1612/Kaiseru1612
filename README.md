@@ -7,7 +7,7 @@ I'm a computer Engineering student who is passionate about writing code, solving
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Studying Computer Engineering at Ho Chi Minh University of Technology.
+- 🎓 &nbsp; Studied Computer Engineering at Ho Chi Minh University of Technology.
 - 📚 &nbsp; Looking for interesting project to work with.
 <br>
 
@@ -22,6 +22,7 @@ I'm a computer Engineering student who is passionate about writing code, solving
   ![C](https://img.shields.io/badge/-C-333333?style=plastic&logo=C%2B%2B&logoColor=00599C)
   ![C++](https://img.shields.io/badge/-C++-333333?style=plastic&logo=C%2B%2B&logoColor=00599C)
   ![Shell Script](https://img.shields.io/badge/-Shells_script-333333?style=plastic&logo=gnu-bash&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=plastic&logo=gnu-bash&logoColor=white)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=plastic&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=plastic&logo=CSS3&logoColor=1572B6)
